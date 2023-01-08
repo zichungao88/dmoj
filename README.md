@@ -1,3 +1,3 @@
-# dmoj
+# DMOJ
 
-Modern Online Judge (DMOJ) practice problems and competitions.
+Modern Online Judge (DMOJ) practice problems and competitions
